@@ -22,7 +22,7 @@
   "homepage": "https://github.com/nicksergeant/slacktappd",
   "dependencies": {
     "futures": "^2.3.3",
-    "mongodb": "^1.4.9",
+    "mongodb": "^3.2.7",
     "q": "^1.0.1",
     "request": "^2.40.0"
   }
